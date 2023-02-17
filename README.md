@@ -1,5 +1,4 @@
 # safeZoneBuilder
 
-by nehco la pupute
 
-join discord.gg/5dev
+join discord.gg/fivemfrance
